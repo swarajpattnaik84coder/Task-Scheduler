@@ -9,8 +9,7 @@ It demonstrates basic concepts of scheduling, time management, and usage of C la
 # Features  
 - Add new tasks with their parameters (task name, duration, focus level)  
 - Schedule tasks in an order according to scheduling algorithm (it is based on focus level priority)  
-- Display scheduled order and execution result (displays a 24 hour task arrangeement with timestamp based on input priority level)  
-- Easy-to-understand C code with comments — good for beginners learning scheduling algorithms  
-
+- Display scheduled order and execution result (displays a 24 hour task arrangeement with timestamp based on input priority level)
+  
 # Folder Structure  
 - MY_CODE.c — main source file containing scheduler implementation   
